@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+/Users/liamanderson/Desktop/cs227/workspace/.metadata/.plugins/org.eclipse.jdt.core
+2850146222.index
+3037559739.index
+4096554113.index
+3986359023.index
+438441389.index
+1783161122.index
+3002822066.index
+797817493.index
+1143532537.index
+2200650775.index
+1286680725.index
+2887900387.index
