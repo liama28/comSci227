@@ -3,7 +3,7 @@ package lab4;
 /**
  * Edit this import to test a different version
  */
-import postage3.PostageUtil;
+import postage1.PostageUtil;
 
 public class PostageTest
 {
